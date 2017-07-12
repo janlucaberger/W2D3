@@ -1,0 +1,42 @@
+body {
+  font-family: "Arial", sans-serif;
+  background: -webkit-linear-gradient(top, #ff0000 0%, #ffeb00 100%)
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol {
+  list-style: lower-greek inside;
+}
+
+header > img {
+  width: 100px
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.user_review {
+  font-size: 30px;
+  padding: 30px;
+  background: white;
+  width: 250px;
+  float: left;
+}
+
+.user_review > h4 {
+  font-family: fantasy;
+  font-size:
+}
